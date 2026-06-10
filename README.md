@@ -1,4 +1,4 @@
-#  Student Information Management App
+# 📱 Student Information Management App
 ### Flutter + PHP + MySQL (XAMPP)
 
 ---
