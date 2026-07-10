@@ -8,7 +8,7 @@
 | Field | Details |
 |---|---|
 | **Name** | Piyush Anand |
-| **Course** | Mobile Application Development |
+| **Course** | Mobile Application Development (ELC Activity) |
 | **Assignment** | Student Information Management App with Backend Database Integration |
 
 ---
