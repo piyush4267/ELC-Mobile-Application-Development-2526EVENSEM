@@ -8,7 +8,6 @@
 | Field | Details |
 |---|---|
 | **Name** | Piyush Anand |
-| **Roll Number** | 1025170118 |
 | **Course** | Mobile Application Development |
 | **Assignment** | Student Information Management App with Backend Database Integration |
 
