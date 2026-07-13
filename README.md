@@ -170,14 +170,6 @@ All student records displayed on screen ✅
 
 ---
 
-## 📸 Screenshots
-
-| Registration Form | Success Message | Student Records |
-|---|---|---|
-| ![Home Screen](output_results_and_screenshots/5_home_screen.png) | ![Success](output_results_and_screenshots/7_success_message.png) | ![Details](output_results_and_screenshots/8_show_details.png) |
-
----
-
 ## ⚠️ Important Notes
 
 - Always keep **XAMPP running** while using the app
